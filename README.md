@@ -1,4 +1,6 @@
 # probando
 repositorio de prueba para el sagemaker
 
-[editando](cositas.ipynb)
+[primera prueba](cositas.ipynb)
+
+[segunda prueba](cositasv2.ipynb)
